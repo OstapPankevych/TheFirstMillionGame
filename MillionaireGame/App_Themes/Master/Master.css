@@ -1,0 +1,23 @@
+﻿.wrapper{
+	margin: 0 auto;
+	width: 1000px;
+    height: 1000px;
+	min-height: 100%;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 1000px;
+    position: relative;
+    height: 50px;
+    top: -50px;
+    background-color: #06266F;
+    text-align: center;
+    border-radius: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font: 21pt Consolas;
+    color: #A9A9A9;
+}

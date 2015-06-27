@@ -1,0 +1,123 @@
+﻿.helpers {
+    width: 75%;
+    height: 80px;
+    background-color: #06266F;
+    border-radius: 15px;
+    position: relative;
+    top: 10px;
+    left: 13%;
+}
+
+.help {
+    position: relative;
+    top: 10px;
+    left: 19%;
+    padding-right: 100px;
+    width: 80px;
+    height: 60px;
+    outline: 0;
+}
+
+.picture {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 50%;
+    float: left;
+}
+
+#playerProgressRegion {
+    background-color: #06266F;
+    background-color: black;
+    position: relative;
+    top: 50px;
+    left: -60px;
+    width: 38%;
+    height: 400px;
+    float: right;
+    border-radius: 20px;
+}
+
+#playerProgress {
+    color: white;
+}
+
+.question {
+    position: relative;
+    top: 40px;
+}
+
+.textQuestion {
+    position: absolute;
+    font-size: 16pt;
+    color: white;
+    left: 180px;
+    bottom: -3px;
+}
+
+#topAnswers, #bottomAnswers {
+    position: relative;
+    top: 150px;
+}
+
+#topAnswers {
+    top: 150px;
+}
+
+#bottomAnswers {
+    top: 180px;
+}
+
+.titleAnswerLeft, .titleAnswerRight {
+    position: absolute;
+    color: white;
+    top: -7px;
+    font-size: 20pt;
+    color: #FFB000;
+    cursor: pointer;
+}
+
+.titleAnswerLeft {
+    left: 120px;
+}
+
+.titleAnswerRight {
+    right: 415px;
+}
+
+.lblAnswerLeft, .lblAnswerRight {
+    position: absolute;
+    color: white;
+    top: -6px;
+    font-size: 17pt;
+    cursor: pointer;
+}
+
+.lblAnswerLeft {
+    left: 160px;
+}
+
+.lblAnswerRight {
+    left: 600px;
+}
+
+.imageButtonA, .imageButtonB, .imageButtonC, .imageButtonD {
+    position: relative;
+    top: -29px;
+    width: 337px;
+    height: 39px;
+    outline: 0;
+}
+
+.imageButtonA, .imageButtonC {
+    left: 100px;
+    float: left;
+}
+
+.imageButtonB, .imageButtonD {
+    left: 200px;
+}
+
+#playerProgress {
+    left: 820px;
+}

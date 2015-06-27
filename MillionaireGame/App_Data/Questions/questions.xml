@@ -1,0 +1,169 @@
+﻿<questions>
+  <question>
+    <textQuestion>Коли була прийнята конституція України?</textQuestion>
+    <trueAnswer>
+      1991
+    </trueAnswer>
+    <falseAnswer>
+      <value>1990</value>
+      <value>1993</value>
+      <value>2001</value>
+    </falseAnswer>
+  </question>
+  
+  <question>
+    <textQuestion>В якої країни назва столиці і самої країни співпадають?</textQuestion>
+    <trueAnswer>
+      Панама
+    </trueAnswer>
+    <falseAnswer>
+      <value>Україна</value>
+        <value>Греція</value>
+        <value>Англія</value>
+    </falseAnswer>
+  </question>
+  
+  <question>
+  <textQuestion>Якого кольору стоп-кран в поїзді?</textQuestion>
+  <trueAnswer>
+    червоний
+  </trueAnswer>
+  <falseAnswer>
+    <value>синій</value>
+    <value>голубий</value>
+    <value>чорний</value>
+  </falseAnswer>
+  </question>
+
+<question>
+<textQuestion>Що таке кавун?</textQuestion>
+<trueAnswer>
+  ягода
+</trueAnswer>
+<falseAnswer>
+  <value>фрукт</value>
+  <value>овоч</value>
+  <value>немає правильної відповіді</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Який орган має здатність відновлюватись?</textQuestion>
+<trueAnswer>
+  печінка
+</trueAnswer>
+<falseAnswer>
+  <value>серце</value>
+  <value>нирка</value>
+  <value>ніякий</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Коли закінчилась Друга світова війна?</textQuestion>
+<trueAnswer>
+  1945
+</trueAnswer>
+<falseAnswer>
+  <value>1944</value>
+  <value>1946</value>
+  <value>1939</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Хто з письменників народився 9 березня 1814?</textQuestion>
+<trueAnswer>
+  Тарас Шевченко
+</trueAnswer>
+<falseAnswer>
+  <value>Леся Українка</value>
+  <value>Іван Франко</value>
+  <value>Григорій Сковорода</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Перша столиця України</textQuestion>
+<trueAnswer>
+  Харків
+</trueAnswer>
+<falseAnswer>
+  <value>Київ</value>
+  <value>Львів</value>
+  <value>Донецьк</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>В.Вакарчук виконавець групи...</textQuestion>
+<trueAnswer>
+  Океан Ельзи
+</trueAnswer>
+<falseAnswer>
+  <value>Друга ріка</value>
+  <value>СКАЙ</value>
+  <value>Один в каное</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Коли був заснований університет імені Івана Франка</textQuestion>
+<trueAnswer>
+  1661
+</trueAnswer>
+<falseAnswer>
+  <value>1662</value>
+  <value>1861</value>
+  <value>1765</value>
+</falseAnswer>
+</question>
+  
+<question>
+<textQuestion>Якого номіналу куп'юри не існує в Україні?</textQuestion>
+<trueAnswer>
+  400
+</trueAnswer>
+<falseAnswer>
+  <value>100</value>
+  <value>200</value>
+  <value>500</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Яка швидкість світла?</textQuestion>
+<trueAnswer>
+  300 000 км/c
+</trueAnswer>
+<falseAnswer>
+  <value>200 000 км/c</value>
+  <value>200 000 м/c</value>
+  <value>300 000 м/с</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Скільки дітей було у Тараса Шевченка?</textQuestion>
+<trueAnswer>
+  0
+</trueAnswer>
+<falseAnswer>
+  <value>1</value>
+  <value>2</value>
+  <value>9</value>
+</falseAnswer>
+</question>
+  
+  <question>
+<textQuestion>Хто такий Вінсент Віллем ван Гог</textQuestion>
+<trueAnswer>
+  художник
+</trueAnswer>
+<falseAnswer>
+  <value>письменник</value>
+  <value>музикант</value>
+  <value>політичний діяч</value>
+</falseAnswer>
+</question>
+  </questions>

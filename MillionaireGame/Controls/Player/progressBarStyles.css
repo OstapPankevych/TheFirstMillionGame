@@ -1,0 +1,17 @@
+﻿#playerProgress {
+    white-space: pre-wrap;
+    font-size: 16pt;
+    line-height: 9px;
+}
+
+
+.selectedItem {
+    color: orange;
+}
+
+.clearItem {
+    color: white;
+}
+
+
+

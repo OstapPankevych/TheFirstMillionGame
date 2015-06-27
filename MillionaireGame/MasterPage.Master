@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="MillionaireGame.MasterPage" EnableTheming="true" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="titleContent" runat="server">
+            
+        </asp:ContentPlaceHolder>
+    </title>
+    <asp:ContentPlaceHolder ID="headContent" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    <link href="App_Themes/Master/Master.css" rel="stylesheet" />
+    <script src="js/libs/jquery/jquery-2.1.4.min.js"></script>
+    <script src="js/defaultPageScript.js"></script>
+</head>
+<body>
+    <form id="masterPage" runat="server">
+    <div class="wrapper">
+        <asp:ContentPlaceHolder ID="bodyContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+        <div class="footer">
+            Epam IT-Lab 2015 {by Ostap Pankevych}
+        </div>
+    </form>
+</body>
+</html>
