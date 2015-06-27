@@ -28,21 +28,14 @@ namespace MillionaireGame
 
         private void HelpCallClick(object sender, ImageClickEventArgs e)
         {
-            if ((bool) Session["HelpCall"])
-            {
-                string clientScript = "helpCall(){allert(\"bla\")};";
-                Page.ClientScript.RegisterStartupScript(this.GetType(), "MyClientScript", clientScript);
-            }
         }
 
         private void Help_50_50Click(object sender, ImageClickEventArgs e)
         {
-            
         }
 
         private void Help_RoomClick(object sender, ImageClickEventArgs e)
         {
-            
         }
 
         protected void Page_PreRender(object sender, EventArgs e)
